@@ -48,15 +48,7 @@ marzban restart
 برای بروزرسانی تمپلیت فقط کافیست مرحله 1 را تکرار کنید.
 
 # زبان پیش فرض
-برای عوض کردن زبان پیش فرض کافیست در فایل html به آخر کد مراجعه کنید و زبان مورد نظرتونو توی تگ select بالا بیارین. مثال:
-```
-<select id="countries" class="border text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 bg-gray-700 border-gray-600 placeholder-gray-400 text-white :focus:ring-blue-500 :focus:border blue-500">
-  <option value="fa">فارسی</option>
-  <option value="en">English</option>
-  <option value="ru">Русский</option>
-</select>
-```
-در این مثال زبان اصلی فارسی است.
+زبان اصلی فارسی است ، بقیه‌ی زبان‌ها حذف شده اند.
 
 # شخصی سازی
 برای شخصی سازی ایدی تلگرام, تصویر پس زمینه و لوگوی کاربر باید تغییراتی در فایل html لحاظ شود که با سرچ کردن برخی مقادیر امکان پذیره.
