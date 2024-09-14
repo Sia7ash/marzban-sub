@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/x0sina/marzban-sub" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Sia7asH/marzban-sub" target="_blank" rel="noopener noreferrer">
   </a>
 </p>
 <h1 align="center"/>قالب سابسکریپشن برای پنل  <a href="https://github.com/Gozargah/Marzban">مرزبان</a></h1>
@@ -21,7 +21,7 @@
 # مراحل نصب
 1. دانلود فایل template
 ```sh
-sudo wget -N -P /var/lib/marzban/templates/subscription/  https://raw.githubusercontent.com/x0sina/marzban-sub/main/index.html
+sudo wget -N -P /var/lib/marzban/templates/subscription/  https://raw.githubusercontent.com/Sia7asH/marzban-sub/main/index.html
 ```
 
 2. دستورات زیر رو تو ترمینال سرورتون بزنید:
